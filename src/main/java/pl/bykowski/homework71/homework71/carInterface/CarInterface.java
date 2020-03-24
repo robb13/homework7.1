@@ -1,4 +1,4 @@
-package pl.bykowski.homework71.homework71.carDao;
+package pl.bykowski.homework71.homework71.carInterface;
 
 import pl.bykowski.homework71.homework71.model.Car;
 

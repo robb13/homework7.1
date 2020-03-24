@@ -4,6 +4,7 @@ package pl.bykowski.homework71.homework71.carDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
+import pl.bykowski.homework71.homework71.carInterface.CarInterface;
 import pl.bykowski.homework71.homework71.model.Car;
 import pl.bykowski.homework71.homework71.service.CarSearchByYear;
 
